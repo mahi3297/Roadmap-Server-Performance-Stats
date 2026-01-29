@@ -17,7 +17,7 @@ A portable Bash script that provides comprehensive server performance statistics
 - Currently logged-in users
 - Failed login attempts (last 24h)
 
-## Quick Start
+
 
 ```bash
 # 1. Save the script below as server-stats.sh
